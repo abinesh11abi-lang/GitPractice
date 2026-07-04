@@ -1,3 +1,4 @@
 hello git
 this is my first git project
 i am currently learning git 
+my goal is to became a data scientist
